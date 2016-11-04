@@ -1,2 +1,2 @@
 # PR code
-some code about machine learning... mainly in matlab
+some code about machine learning
